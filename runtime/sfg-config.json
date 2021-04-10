@@ -1,0 +1,63 @@
+{
+    "list": {
+        "other": {
+            "colorscheme": {
+                "current": "blue",
+                "default": "darkblue",
+                "list": [
+                    "blue",
+                    "darkblue",
+                    "default",
+                    "delek",
+                    "elflord",
+                    "industry",
+                    "morning",
+                    "murphy",
+                    "pablo",
+                    "ron",
+                    "slate",
+                    "torte"
+                ]
+            }
+        },
+        "toggle": [
+            {
+                "command": [
+                    "set number",
+                    "set nonumber"
+                ],
+                "default": false,
+                "name": "行番号の表示",
+                "status": false
+            },
+            {
+                "command": [
+                    "set ignorecase",
+                    "set noignorecase"
+                ],
+                "default": false,
+                "name": "検索時に大文字小文字を区別なく検索",
+                "status": false
+            },
+            {
+                "command": [
+                    "set cursorline",
+                    "set nocursorline"
+                ],
+                "default": false,
+                "name": "現在の行を強調",
+                "status": false
+            },
+            {
+                "command": [
+                    "set cursorcolumn",
+                    "set nocursorcolumn"
+                ],
+                "default": false,
+                "name": "現在の列を強調",
+                "status": false
+            }
+        ]
+    },
+    "windowcolor": "#696969"
+}
