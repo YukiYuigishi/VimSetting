@@ -1,0 +1,7 @@
+compile_commands.json
+Makefile
+main.o
+*.o
+sfgGUI
+.qmake.stash
+VimSetting
